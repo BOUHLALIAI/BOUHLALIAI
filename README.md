@@ -1,16 +1,32 @@
-## Hi there 👋
+## Bonjour 👋
 
-<!--
-**BOUHLALIAI/BOUHLALIAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en 3ᵉ année de licence en Intelligence Artificielle et Ingénierie Logicielle.
 
-Here are some ideas to get you started:
+Passionné par tout ce qui touche au :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Machine Learning
+- 📊 Data Science
+- ☁️ Big Data
+- 💻 Programmation
+
+Je construis des projets concrets autour de l’analyse de données, des modèles prédictifs et des solutions intelligentes. J’aime explorer les nouvelles technologies, apprendre des algorithmes, et transformer les données en résultats utiles.
+
+### Mes intérêts
+
+- Apprentissage automatique et systèmes intelligents
+- Visualisation des données et extraction d’informations
+- Traitement de grandes quantités de données
+- Développement logiciel structuré et collaboratif
+
+### Ce que je recherche
+
+- Opportunités de projets personnels et collaboratifs
+- Stage ou mission en IA, data science ou développement
+- Échanges avec d’autres passionnés de technologie
+
+> Toujours curieux, motivé et prêt à apprendre de nouveaux outils pour créer des solutions innovantes.
+
+### Langages et outils
+
+Python · SQL · Git · Jupyter · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Linux
+
