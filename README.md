@@ -1,6 +1,6 @@
 ## Bonjour 👋
 
-Je suis étudiant en 3ᵉ année de licence en Intelligence Artificielle et Ingénierie Logicielle.
+Je suis étudiant en 1ᵉ année de licence en Intelligence Artificielle et Ingénierie Logicielle.
 
 Passionné par tout ce qui touche au :
 
